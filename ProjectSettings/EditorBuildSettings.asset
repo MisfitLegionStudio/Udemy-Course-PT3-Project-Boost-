@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Over.unity
+    guid: 9fc0d4010bbf28b4594072e72b8655ab
+  - enabled: 1
+    path: Assets/Scenes/Under.unity
+    guid: 71f8118bf22b4b347a10f119449077ef
+  - enabled: 1
+    path: Assets/Scenes/Through.unity
+    guid: a2edf7049a1db3849a05f01a0fd58447
+  - enabled: 1
+    path: Assets/Scenes/Meteors.unity
+    guid: d3843fc3a3fb883429522731a073b748
+  - enabled: 1
+    path: Assets/Scenes/Crusher.unity
+    guid: 2248b12c712aa1a46b41ea3a46f2c92a
+  - enabled: 1
+    path: Assets/Scenes/Crystal Obstacle.unity
+    guid: 35f0309ff8c9ee946b40321ae44f05d7
+  m_configObjects: {}
